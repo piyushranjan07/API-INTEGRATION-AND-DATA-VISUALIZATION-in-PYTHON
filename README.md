@@ -17,3 +17,4 @@ this is my first task of my first summer internship in python programming
 
 *DATA VISUALIZATION*: ![Image](https://github.com/user-attachments/assets/824793ae-012d-45e9-8854-9a763c554420)
 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/830d24ed-1ab2-48e9-959c-1ccbca580533)
